@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently exploring **Web3**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://cvs-new.vercel.app/)
-
 - 💬 Ask me about **Web Development, DevOps, Web3**
 
 - 📫 How to reach me **thienmai1312@gmail.com**
