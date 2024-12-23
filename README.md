@@ -1,12 +1,12 @@
 ---
-# **👋 Xin chào! Tôi là [Tên của bạn]**
+# **👋 Xin chào! Tôi là NeihT Dev**
 ### **💻 Senior Frontend Developer | Passionate Coder & Tech Enthusiast**
 ---
 
 ## **🚀 Về tôi**
 
-- 🎯 **Tôi là một Senior Frontend Developer** với hơn **X năm kinh nghiệm** trong việc xây dựng các ứng dụng web hiệu năng cao và dễ mở rộng.
-- 🔭 **Hiện tại tôi đang làm việc tại:** **[Tên Công ty / Tổ chức]**, tập trung vào các dự án **Web Applications**, **SaaS Platforms**, và **Enterprise Systems**.
+- 🎯 **Tôi là một Senior Frontend Developer** với hơn **3 năm kinh nghiệm** trong việc xây dựng các ứng dụng web hiệu năng cao và dễ mở rộng.
+- 🔭 **Hiện tại tôi đang làm việc tại:** **CVS Center - Duy Tan University**, tập trung vào các dự án **Web Applications**, **SaaS Platforms**, và **Enterprise Systems**.
 - 🌱 **Tôi luôn tìm hiểu các công nghệ mới** và không ngừng cải tiến kỹ năng bản thân.
 - 💬 **Hãy trao đổi với tôi về:** **Frontend Development**, **React Ecosystem**, **Backend APIs**, và **UI/UX Design**.
 - 🎨 **Triết lý làm việc:** **Clean Code**, **Scalable Architecture**, **User-Centered Design**.
@@ -51,7 +51,7 @@
 ## **🌐 Liên hệ**
 
 - **📧 Email:** **thienmai1312@gmail.com**
-- **💼 LinkedIn:** **[Your LinkedIn](https://linkedin.com/in/thienmai1312)**
+<!-- - **💼 LinkedIn:** **[Your LinkedIn](https://linkedin.com/in/thienmai1312)** -->
 <!-- - **🚀 Portfolio:** **[Your Portfolio Website](https://your-portfolio.com)**   -->
 
 ---
