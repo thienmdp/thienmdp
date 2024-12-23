@@ -12,7 +12,6 @@
 - 🌱 **I'm always learning new technologies** and constantly improving my skills.
 
 - 💬 **Talk to me about:** **Frontend Development**, **React Ecosystem**, **Backend APIs**, and **UI/UX Design**.
-  
 - 🎨 **Working philosophy:** **Clean Code**, **Scalable Architecture**, **User-Centered Design**.
 
 ---
@@ -41,13 +40,13 @@
 
 ## **📊 GitHub Stats**
 
-**🎯 Overview:**
+**🎯 Overview:**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thien-mdp&show_icons=true&theme=radical)
 
 **🔥 Popular Languages:**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thien-mdp&layout=compact&theme=radical)
 
-**🏆 Contribution Dates:**
+**🏆 Contribution Dates:**  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=thien-mdp&theme=radical)
 
 ---
@@ -55,8 +54,8 @@
 ## **🌐 Contact**
 
 - **📧 Email:** **thienmai1312@gmail.com**
-<!-- - **💼 LinkedIn:** **[Your LinkedIn](https://linkedin.com/in/thienmai1312)** -->
-<!-- - **🚀 Portfolio:** **[Your Portfolio Website](https://your-portfolio.com)** -->
+  <!-- - **💼 LinkedIn:** **[Your LinkedIn](https://linkedin.com/in/thienmai1312)** -->
+  <!-- - **🚀 Portfolio:** **[Your Portfolio Website](https://your-portfolio.com)** -->
 
 ---
 
