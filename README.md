@@ -43,7 +43,7 @@
 **🎯 Overview:**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thien-mdp&show_icons=true&theme=radical)
 
-**🔥 Popular Languages:**
+**🔥 Popular Languages:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thien-mdp&layout=compact&theme=radical)
 
 **🏆 Contribution Dates:**  
