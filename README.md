@@ -3,19 +3,6 @@
 ### **💻 Senior Frontend Developer | Passionate Coder & Tech Enthusiast**
 ---
 
-## **🚀 About Me**
-
-- 🎯 **I'm a Senior Frontend Developer** with over **3 years of experience** in building high-performance and scalable web applications.
-
-- 🔭 **I'm currently working at:** **CVS Center - Duy Tan University**, focusing on **Web Applications**, **SaaS Platforms**, and **Enterprise Systems** projects.
-
-- 🌱 **I'm always learning new technologies** and constantly improving my skills.
-
-- 💬 **Talk to me about:** **Frontend Development**, **React Ecosystem**, **Backend APIs**, and **UI/UX Design**.
-- 🎨 **Working philosophy:** **Clean Code**, **Scalable Architecture**, **User-Centered Design**.
-
----
-
 ## **🛠️ Main skills**
 
 **⚙️ Frontend:**
