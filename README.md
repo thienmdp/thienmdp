@@ -25,7 +25,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh3bThmOGsyemdxbng5NmRwbTl4Ync4eHVybm05eHd6YzdsN2x6ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 ### 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thienmdp&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true&area_color=58A6FF&custom_title=Contribution%20Graph&radius=6)](https://github.com/thienmdp)
