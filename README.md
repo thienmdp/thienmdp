@@ -12,19 +12,14 @@ I'm **Mai Duc Phong Thien**, a **full stack web / app developer** passionate abo
 
 I thrive on **clean code**, **modern UI/UX**, and leveraging the best technologies to create seamless user experiences.
 
----
-
 #### TECH STACK
 
-REACT.JS / NEXT.JS / REDUX / ZUSTAND / TAILWIND / SHADCN / ANT DESIGN (ANTD) / MATERIAL UI (MUI) / STYLED COMPONENTS / SCSS / LESS / BOOTSTRAP / NODE.JS / NESTJS / EXPRESS.JS / POSTGRESQL / MONGODB / FIREBASE / MYSQL / DOCKER / KUBERNETES / GITHUB ACTIONS / CI/CD / AWS / VERCEL / HEROKU / APACHE / NGINX / REST API / GRAPHQL / GOOGLE API'S / AZURE
-
----
+REACT.JS / NEXT.JS / REDUX / ZUSTAND
+TAILWIND / SHADCN UI / ANT DESIGN (ANTD) / MATERIAL UI (MUI) / STYLED COMPONENTS / SCSS / LESS / NODE.JS / NESTJS / EXPRESS.JS / POSTGRESQL / MONGODB / FIREBASE / MYSQL / DOCKER / KUBERNETES / GITHUB ACTIONS / CI/CD / AWS / VERCEL / HEROKU / APACHE / NGINX / REST API / GRAPHQL / GOOGLE API'S / AZURE
 
 ##### MOTTO
 
 > _"Code is like a story - every line has a reason to exist."_
-
----
 
 ####
 
@@ -33,7 +28,3 @@ REACT.JS / NEXT.JS / REDUX / ZUSTAND / TAILWIND / SHADCN / ANT DESIGN (ANTD) / M
 <a href="https://www.instagram.com/m.dpt_/" target="_blank"><img src="https://raw.githubusercontent.com/thienmdp/thienmdp/main/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/thienmdp/" target="_blank"><img src="https://raw.githubusercontent.com/thienmdp/thienmdp/main/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/thienmdp" target="_blank"><img src="https://raw.githubusercontent.com/thienmdp/thienmdp/main/git.png" alt="GitHub" width="30"></a>
-
----
-
-⭐ **Let's build something amazing together!**
