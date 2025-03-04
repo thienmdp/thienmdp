@@ -2,27 +2,16 @@
 
 <img src="https://raw.githubusercontent.com/thienmdp/thienmdp/main/banner.png" alt="Banner about Mai Duc Phong Thien">
 
-I'm **Mai Duc Phong Thien**, a **full stack web / app developer** passionate about building high-performance and scalable web applications. With **3+ years of experience**, I have worked on various large-scale projects, including HRM, CRM, E-Commerce, Fintech, SaaS, and enterprise management systems, focusing on clean code and seamless user experiences.
+I'm **Mai Duc Phong Thien** and i'm **full stack web / app developer** passionate about building high-performance and scalable web applications. With **3+ years of experience**, I've worked on HRM, CRM, E-Commerce, Fintech, SaaS, and enterprise management systems, focusing on clean code and seamless user experiences.
 
-I thrive on **clean code**, **modern UI/UX**, and leveraging the best technologies to create seamless user experiences.
+I thrive on **efficient architecture**, **modern UI/UX**, and utilizing the best technologies to craft high-quality applications.
 
 ### TECH STACK
 
-#### Client-Side
-
-REACT JS / NEXT JS / REDUX / ZUSTAND / TAILWIND / SHADCN UI / ANTD / MUI / SCSS / LESS / BOOSTRAP
-
-#### Server-Side & Databases
-
-NODE JS / NEST JS / EXPRESS JS / POSTGRESQL / MYSQL / MONGODB / FIREBASE
-
-#### DevOps & Deployment
-
-DOCKER / KUBERNETES / GITHUB ACTIONS / CI/CD / AWS / VERCEL / HEROKU / APACHE / NGINX
-
-#### APIs & Integrations
-
-REST API / GRAPHQL / GOOGLE APIS / AZURE
+**Client-Side:** REACT JS / NEXT JS / REDUX / ZUSTAND / TAILWIND / SHADCN UI / ANTD / MUI / SCSS / LESS / BOOTSTRAP  
+ **Server-Side & Databases:** NODE JS / NEST JS / EXPRESS JS / POSTGRESQL / MYSQL / MONGODB / FIREBASE  
+ **DevOps & Deployment:** DOCKER / KUBERNETES / GITHUB ACTIONS / CI/CD / AWS / VERCEL / HEROKU / APACHE / NGINX  
+ **APIs & Integrations:** REST API / GRAPHQL / GOOGLE APIS / AZURE
 
 ##### MOTTO
 
