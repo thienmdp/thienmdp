@@ -32,7 +32,7 @@
 
 ## 🌐 **Contact & Socials**
 📩 **Email:** [thienmai1312@gmail.com](mailto:thienmai1312@gmail.com)  
-💼 **LinkedIn:** **[thienmdp](https://linkedin.com/in/thienmdp)**
+💼 **LinkedIn:** **[thienmdp](https://linkedin.com/in/thienmdp)** 
 🚀 **Portfolio:** *Coming Soon*  
 
 ---
