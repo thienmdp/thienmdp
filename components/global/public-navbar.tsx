@@ -2,7 +2,7 @@
 import Image from 'next/image';
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { Earth, Menu, X } from 'lucide-react';
+import { Code2, Earth, Menu, X } from 'lucide-react';
 import { ModeToggle } from './mode-toggle';
 import { ColourfulText } from '../ui/colourful-text';
 import { FaceIcon } from '@radix-ui/react-icons';
@@ -64,7 +64,7 @@ export default function Navbar() {
         duration: 0.7,
         ease: 'easeInOut',
       }}
-      className={`fixed left-1/2 max-w-6xl -translate-x-1/2 ${!isMobile ? 'rounded-full' : ''} z-50 ${isMenuOpen ? 'h-screen w-full bg-background/80 dark:bg-background/95' : ''} ${isScrolled ? 'backdrop-blur-lg' : ''}`}
+      className={`fixed top-0 left-1/2 max-w-6xl -translate-x-1/2 ${!isMobile ? 'rounded-full' : ''} z-50 ${isMenuOpen ? 'h-screen w-full bg-background/80 dark:bg-background/95' : ''} ${isScrolled ? 'backdrop-blur-lg' : ''}`}
       style={
         {
           '--menu-bg': 'var(--background, rgba(255, 255, 255, 0.95))',
@@ -76,8 +76,15 @@ export default function Navbar() {
       <div className='flex items-center justify-between p-2'>
         <a href='#'>
           <div className='flex items-center'>
-            <div className='px-2'>
-              <Earth className='w-6 h-6 text-primary' />
+            <div className='px-2 ml-2'>
+              {/* <Code2 className='w-7 h-7 text-primary' /> */}
+              <Image
+                alt=''
+                src={'/dev.svg'}
+                width={100}
+                height={100}
+                className='w-7 h-7 text-primary'
+              />
             </div>
             <motion.span
               initial={{ opacity: 0, scale: 0.8 }}
@@ -92,7 +99,7 @@ export default function Navbar() {
               }}
               className='ms-1 mt-1 text-[1.2rem] font-semibold text-primary'
             >
-              Thienmdp
+              NeihTdev
             </motion.span>
           </div>
         </a>

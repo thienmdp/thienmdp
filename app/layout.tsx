@@ -1,10 +1,11 @@
 import type { Metadata } from 'next';
 import { Geist } from 'next/font/google';
-import CanvasCursor from '@/components/global/CanvaCursor';
+import CanvasCursor from '@/components/global/canva-cursor';
 import { ThemeProvider } from '@/components/theme-provider';
 import { cn } from '@/lib/utils';
 import '@/css/globals.css';
 import Navbar from '@/components/global/public-navbar';
+import FluidCursor from '@/components/global/FluidCursor';
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -28,9 +29,9 @@ export default function RootLayout({
       >
         <ThemeProvider attribute='class' defaultTheme='dark' enableSystem disableTransitionOnChange>
           <Navbar />
-          {/* <PublicNavbar /> */}
           {children}
           <CanvasCursor />
+          {/* <FluidCursor /> */}
         </ThemeProvider>
       </body>
     </html>
