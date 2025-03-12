@@ -2,7 +2,7 @@ import { About, Hero, Product } from '@/components/landing';
 
 export default function Home() {
   return (
-    <div className='mt-14 bg-white dark:bg-black-100'>
+    <div className='bg-white dark:bg-black-100'>
       <Hero />
       <Product />
       <About />
