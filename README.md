@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/thienmdp/thienmdp/main/public/assets/banner.png" alt="Banner about Mai Duc Phong Thien">
 
-I'm **Mai Duc Phong Thien**, a **full stack web / app developer** passionate about building high-performance and scalable web applications. With **3+ years of experience**, I have developed and optimized solutions for HRM, CRM, E-Commerce, Fintech, SaaS, and enterprise management systems, emphasizing clean code, efficient architecture, and seamless user experiences.
+I'm **Mai Duc Phong Thien**, a **full stack developer** passionate about building high-performance and scalable web applications. With **3+ years of experience**, I have developed and optimized solutions for HRM, CRM, E-Commerce, Fintech, SaaS, and enterprise management systems, emphasizing clean code, efficient architecture, and seamless user experiences.
 
 I thrive on **efficient architecture**, **modern UI/UX**, and utilizing the best technologies to craft high-quality applications.
 
