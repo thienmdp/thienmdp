@@ -21,6 +21,6 @@ I thrive on **efficient architecture**, **modern UI/UX**, and utilizing the best
 
 <a href="https://www.facebook.com/maidphongthien" target="_blank"><img src="https://raw.githubusercontent.com/thienmdp/thienmdp/main/public/assets/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/thien_mdp" target="_blank"><img src="https://raw.githubusercontent.com/thienmdp/thienmdp/main/public/assets/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/m.dpt_/" target="_blank"><img src="https://raw.githubusercontent.com/thienmdp/thienmdp/main/public/assets/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.instagram.com/thienmdp" target="_blank"><img src="https://raw.githubusercontent.com/thienmdp/thienmdp/main/public/assets/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/thienmdp/" target="_blank"><img src="https://raw.githubusercontent.com/thienmdp/thienmdp/main/public/assets/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/thienmdp" target="_blank"><img src="https://raw.githubusercontent.com/thienmdp/thienmdp/main/public/assets/git.png" alt="GitHub" width="30"></a>
